@@ -6,5 +6,7 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
+    'Slim\\Views\\' => array($vendorDir . '/slim/php-view/src'),
+    'Psr\\Http\\Message\\' => array($vendorDir . '/psr/http-message/src'),
     'Hcode\\' => array($vendorDir . '/hcodebr/php-classes/src'),
 );

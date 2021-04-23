@@ -7,6 +7,14 @@ namespace Composer\Autoload;
 class ComposerStaticInit6acc187c93331e96796766947d748ef8
 {
     public static $prefixLengthsPsr4 = array (
+        'S' => 
+        array (
+            'Slim\\Views\\' => 11,
+        ),
+        'P' => 
+        array (
+            'Psr\\Http\\Message\\' => 17,
+        ),
         'H' => 
         array (
             'Hcode\\' => 6,
@@ -14,6 +22,14 @@ class ComposerStaticInit6acc187c93331e96796766947d748ef8
     );
 
     public static $prefixDirsPsr4 = array (
+        'Slim\\Views\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/slim/php-view/src',
+        ),
+        'Psr\\Http\\Message\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/psr/http-message/src',
+        ),
         'Hcode\\' => 
         array (
             0 => __DIR__ . '/..' . '/hcodebr/php-classes/src',
