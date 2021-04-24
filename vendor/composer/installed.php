@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => 'c6cf6560a7c7fdcc063e7708e5ed7b81ba33e435',
+    'reference' => 'a6db9bbf92fbb9b282e71120d1501587b9895a8c',
     'name' => 'p3tronio/ecommerce',
   ),
   'versions' => 
@@ -18,7 +18,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => 'c6cf6560a7c7fdcc063e7708e5ed7b81ba33e435',
+      'reference' => 'a6db9bbf92fbb9b282e71120d1501587b9895a8c',
     ),
     'phpmailer/phpmailer' => 
     array (
@@ -58,12 +58,12 @@
     ),
     'slim/slim' => 
     array (
-      'pretty_version' => '2.0.0',
-      'version' => '2.0.0.0',
+      'pretty_version' => '2.2.0',
+      'version' => '2.2.0.0',
       'aliases' => 
       array (
       ),
-      'reference' => '3e95c9abbc57a8f023ab4dacebcab9dae4d9f1f0',
+      'reference' => 'b8181de1112a1e2f565b40158b621c34ded38053',
     ),
   ),
 );
